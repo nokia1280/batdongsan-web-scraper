@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Discord Nitro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h3>Scraper</h3>
+    <div id="total-posts"></div>
+    <div id="last-crawl-date"></div>
+
+    <p>Chart 1</p>
+    <label for="location">Choose a location:</label>
+    <select id="location" name="location">
+        <option value="Hà Nội">Hà Nội</option>
+        <option value="Hồ Chí Minh">Hồ Chí Minh</option>
+    </select>
+    <label for="type">Choose a property type:</label>
+    <select id="type" name="type">
+        <option value="House">House</option>
+        <option value="Apartment">Apartment</option>
+        <option value="Shophouse">Shophouse</option>
+        <option value="Villa">Villa</option>
+    </select>
+    <div id="chart1"></div>
+    <div id="chart1"></div>
+    <p>Chart 2</p>
+    <div id="chart2"></div>
+</body>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="display_info.js"></script>
+<script src="chart_common.js"></script>
+<script src="chart1_script.js"></script>
+<script src="chart2_script.js"></script>
+
+</html>
