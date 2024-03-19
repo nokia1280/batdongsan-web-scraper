@@ -70,8 +70,8 @@ function scrapeData(url, type) {
                                 var timeElement = ((_a = item.querySelector('span.re__card-published-info-published-at')) === null || _a === void 0 ? void 0 : _a.getAttribute('aria-label')) || '';
                                 //data cleanup and returning result
                                 if (priceElement && locationElement && areaElement) {
-                                    var priceValue = ((_b = priceElement.textContent) === null || _b === void 0 ? void 0 : _b.trim()) || '';
-                                    var price = parseFloat(priceValue.replace(/[^\d.]/g, ''));
+                                    var priceValue = ((_b = priceElement.textContent) === null || _b === void 0 ? void 0 : _b.trim().replace(',', '.')) || '';
+                                    var price = parseFloat(priceValue);
                                     var locationValue = ((_c = locationElement.textContent) === null || _c === void 0 ? void 0 : _c.trim()) || '';
                                     var location_1 = ((_d = locationValue.split(',').pop()) === null || _d === void 0 ? void 0 : _d.trim()) || '';
                                     var areaValue = ((_e = areaElement.textContent) === null || _e === void 0 ? void 0 : _e.trim()) || '';
@@ -161,6 +161,9 @@ function main() {
             base_URL_HCM_Apartment = 'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm';
             base_URL_Hanoi_Shophouse = 'https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-ha-noi';
             base_URL_HCM_Shophouse = 'https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-tp-hcm';
+            console.log('===================');
+            console.log('=== WEB SCRAPER ===');
+            console.log('===================\n');
             getTotalPages(function (totalPages) { return __awaiter(_this, void 0, void 0, function () {
                 var scraped_Data_Hanoi_House, scraped_Data_HCM_House, scraped_Data_Hanoi_Villa, scraped_Data_HCM_Villa, scraped_Data_Hanoi_Apartment, scraped_Data_HCM_Apartment, scraped_Data_Hanoi_Shophouse, scraped_Data_HCM_Shophouse, allScrapedData, counts;
                 return __generator(this, function (_a) {

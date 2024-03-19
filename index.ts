@@ -1,15 +1,7 @@
 import * as puppeteer from 'puppeteer';
 import * as fs from 'fs';
 import * as readline from 'readline';
-
-// what to scrape
-interface propertyData {
-    price: number;          // billion VND
-    location: string;       // hanoi or hcm
-    area: number;           // m2
-    time: string;           // might not be available for some post
-    type: string;           // house, villa, shophouse, apartment
-}
+import { propertyData } from './propertyData';
 
 // stuff to get user input
 const rl = readline.createInterface({
@@ -35,8 +27,8 @@ async function scrapeData(url: string, type: string): Promise<propertyData[]> {
 
             //data cleanup and returning result
             if (priceElement && locationElement && areaElement) {
-                const priceValue = priceElement.textContent?.trim() || '';
-                const price = parseFloat(priceValue.replace(/[^\d.]/g, ''));
+                const priceValue = priceElement.textContent?.trim().replace(',', '.') || '';
+                const price = parseFloat(priceValue);
 
                 const locationValue = locationElement.textContent?.trim() || '';
                 const location = locationValue.split(',').pop()?.trim() || '';
@@ -96,6 +88,9 @@ async function main() {
     const base_URL_Hanoi_Shophouse = 'https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-ha-noi';
     const base_URL_HCM_Shophouse = 'https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-tp-hcm';
 
+    console.log('===================')
+    console.log('=== WEB SCRAPER ===')
+    console.log('===================\n')
     function getTotalPages(callback: (totalPages: number) => void) {
         rl.question('Please enter the total number of pages to scrape (Fewer pages = faster scraping time): ', (input) => {
             const totalPages = parseInt(input);
