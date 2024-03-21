@@ -1,5 +1,4 @@
 @echo off
-@echo off
 
 rem
 set "SCRIPT_DIR=%~dp0"
