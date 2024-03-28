@@ -1,49 +1,45 @@
 {
-  "19/03/2024": {
-    "House": 20,
-    "Villa": 3,
-    "Apartment": 15,
-    "Shophouse": 4
-  },
-  "18/03/2024": {
-    "House": 20,
-    "Villa": 7,
+  "26/03/2024": {
+    "House": 27,
+    "Villa": 6,
     "Apartment": 22,
-    "Shophouse": 12
-  },
-  "17/03/2024": {
-    "Villa": 9,
-    "Apartment": 3,
-    "Shophouse": 6
-  },
-  "16/03/2024": {
-    "Villa": 12,
-    "Shophouse": 3
-  },
-  "15/03/2024": {
-    "Villa": 5,
-    "Shophouse": 4
+    "Shophouse": 5
   },
   "14/03/2024": {
-    "Villa": 2,
-    "Apartment": 1,
-    "Shophouse": 7
+    "House": 1
   },
-  "11/03/2024": {
+  "25/03/2024": {
+    "House": 13,
+    "Villa": 24,
+    "Apartment": 20,
+    "Shophouse": 10
+  },
+  "24/03/2024": {
+    "Villa": 6,
+    "Shophouse": 4
+  },
+  "23/03/2024": {
+    "Villa": 3,
+    "Shophouse": 6
+  },
+  "22/03/2024": {
+    "Villa": 2,
+    "Shophouse": 3
+  },
+  "19/03/2024": {
     "Villa": 1,
     "Shophouse": 3
   },
-  "13/03/2024": {
-    "Villa": 1,
+  "21/03/2024": {
+    "Shophouse": 7
+  },
+  "20/03/2024": {
+    "Shophouse": 3
+  },
+  "18/03/2024": {
     "Shophouse": 1
   },
-  "06/03/2024": {
-    "Villa": 1
-  },
-  "07/03/2024": {
-    "Shophouse": 1
-  },
-  "04/03/2024": {
+  "17/03/2024": {
     "Shophouse": 1
   }
 }
