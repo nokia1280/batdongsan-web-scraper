@@ -141,8 +141,6 @@ async function main() {
         fs.writeFile('counts.json', JSON.stringify(counts, null, 2), (err) => {
             if (err) {
                 console.error('Error writing to file:', err);
-            } else {
-                console.log('Counts saved to counts.json');
             }
             rl.close();
         });

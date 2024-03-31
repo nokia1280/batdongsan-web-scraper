@@ -26,7 +26,7 @@ function updateChart() {
             const groupedData = Array.from(d3.group(filteredData, d => d.time), ([key, value]) => ({ key, value }));
             const averagedData = groupedData.map(d => {
                 const validValues = d.value.filter(v => v.price && v.area); // exclude data points where price or area is null or 0
-                const avgPricePerArea = d3.mean(validValues, v => v.price / v.area);
+                const avgPricePerArea = d3.mean(validValues, v => (v.price / v.area) * 1000);
                 return { date: d3.timeParse("%d/%m/%Y")(d.key), avgPricePerArea: avgPricePerArea };
             });
 
@@ -80,7 +80,7 @@ function updateChart() {
                 .attr("x", 0 - (height / 2))
                 .attr("dy", "1em")
                 .style("text-anchor", "middle")
-                .text("Average Price per Area (billion VND/m2)");
+                .text("Million VND/m2");
 
             // Add tooltip
             const tooltip = d3.select("#chart1")
@@ -98,7 +98,7 @@ function updateChart() {
                     tooltip.transition()
                         .duration(200)
                         .style("opacity", .9);
-                    tooltip.html(`<strong>Date:</strong> ${d3.timeFormat("%d/%m/%Y")(d.date)}<br/><strong>Average Price per Area:</strong> ${formatPrice(d.avgPricePerArea)} billion VND/m2`)
+                    tooltip.html(`<strong>Date:</strong> ${d3.timeFormat("%d/%m/%Y")(d.date)}<br/><strong>Average Price per Area:</strong> ${formatPrice(d.avgPricePerArea)} million VND/m2`)
                         .style("left", (event.pageX) + "px")
                         .style("top", (event.pageY - 28) + "px");
                 })
