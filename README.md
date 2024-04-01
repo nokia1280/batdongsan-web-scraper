@@ -3,5 +3,10 @@ Web scraper for batdongsan.com.vn. Takes data involving pricing, location, area,
 
 How to use:
 - Install Node.js if not.
-- Download and extract files
-- Run the bat. file
+- Download and extract files.
+- Use cmd, get to the folder's location and execute:
+```
+npm install --global http-server
+npx puppeteer browsers install chrome
+```
+- Run the exe file.
