@@ -219,9 +219,6 @@ function main() {
                                 if (err) {
                                     console.error('Error writing to file:', err);
                                 }
-                                else {
-                                    console.log('Counts saved to counts.json');
-                                }
                                 rl.close();
                             });
                             return [2 /*return*/];
