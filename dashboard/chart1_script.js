@@ -17,7 +17,7 @@ function updateChart() {
     var selectedType = document.getElementById("type").value;
 
     // Load data from JSON file
-    d3.json("scraped_data.json")
+    d3.json("../scraped_data/scraped_data.json")
         .then(function (data) {
             // Filter the data based on the selected location and property type
             var filteredData = data.filter(d => d.location === selectedLocation && d.type === selectedType);

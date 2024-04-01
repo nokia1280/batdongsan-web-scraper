@@ -26,7 +26,7 @@
 ::ZQ0/vhVqMQ3MEVWAtB9wSA==
 ::Zg8zqx1/OA3MEVWAtB9wSA==
 ::dhA7pRFwIByZRRnk
-::Zh4grVQjdCqDJF+W8UdwOhRWWRy+KG6pEvsZ8O2b
+::Zh4grVQjdCqDJEqH5kMgLQlobiW2GESUIYY9xtfIzNimkmgvGucnfe8=
 ::YB416Ek+ZG8=
 ::
 ::
@@ -46,7 +46,7 @@ set /p choice=""
 rem
 if /i "%choice%"=="Y" (
     rem
-    node index.js
+    node src/index.js
 ) else (
     rem
     echo ok.
@@ -56,5 +56,5 @@ rem
 start http-server -c-1
 
 rem
-start http://localhost:8080/main.html
+start http://localhost:8080/dashboard/main.html
 pause

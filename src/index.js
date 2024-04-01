@@ -38,6 +38,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var puppeteer = require("puppeteer");
 var fs = require("fs");
+var path = require("path");
 var readline = require("readline");
 // stuff to get user input
 var rl = readline.createInterface({
@@ -165,7 +166,7 @@ function main() {
             console.log('=== WEB SCRAPER ===');
             console.log('===================\n');
             getTotalPages(function (totalPages) { return __awaiter(_this, void 0, void 0, function () {
-                var scraped_Data_Hanoi_House, scraped_Data_HCM_House, scraped_Data_Hanoi_Villa, scraped_Data_HCM_Villa, scraped_Data_Hanoi_Apartment, scraped_Data_HCM_Apartment, scraped_Data_Hanoi_Shophouse, scraped_Data_HCM_Shophouse, allScrapedData, counts;
+                var scraped_Data_Hanoi_House, scraped_Data_HCM_House, scraped_Data_Hanoi_Villa, scraped_Data_HCM_Villa, scraped_Data_Hanoi_Apartment, scraped_Data_HCM_Apartment, scraped_Data_Hanoi_Shophouse, scraped_Data_HCM_Shophouse, allScrapedData, folderName, path1, path2, counts;
                 return __generator(this, function (_a) {
                     switch (_a.label) {
                         case 0: return [4 /*yield*/, scrapeMultiplePages(base_URL_Hanoi_House, 'House', totalPages)];
@@ -202,8 +203,10 @@ function main() {
                                 scraped_Data_Hanoi_Shophouse,
                                 scraped_Data_HCM_Shophouse
                             ].flat();
-                            // export data to JSON
-                            fs.writeFile('scraped_data.json', JSON.stringify(allScrapedData, null, 2), function (err) {
+                            folderName = 'scraped_data';
+                            path1 = path.join(__dirname, '..', folderName, 'scraped_data.json');
+                            path2 = path.join(__dirname, '..', folderName, 'counts.json');
+                            fs.writeFile(path1, JSON.stringify(allScrapedData, null, 2), function (err) {
                                 if (err) {
                                     console.error('Error writing to file:', err);
                                 }
@@ -215,7 +218,7 @@ function main() {
                             return [4 /*yield*/, countByTypeAndDay(allScrapedData)];
                         case 9:
                             counts = _a.sent();
-                            fs.writeFile('counts.json', JSON.stringify(counts, null, 2), function (err) {
+                            fs.writeFile(path2, JSON.stringify(counts, null, 2), function (err) {
                                 if (err) {
                                     console.error('Error writing to file:', err);
                                 }

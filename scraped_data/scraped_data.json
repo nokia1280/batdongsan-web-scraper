@@ -1,0 +1,1199 @@
+[
+  {
+    "price": 4.2,
+    "location": "Hà Nội",
+    "area": 8953,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 7.13,
+    "location": "Hà Nội",
+    "area": 140,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 4.1,
+    "location": "Hà Nội",
+    "area": 63,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 4.3,
+    "location": "Hà Nội",
+    "area": 73,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 11.7,
+    "location": "Hồ Chí Minh",
+    "area": 120,
+    "time": "29/03/2024",
+    "type": "House"
+  },
+  {
+    "price": 3,
+    "location": "Hà Nội",
+    "area": 71,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 5.7,
+    "location": "Hà Nội",
+    "area": 95,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 126,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 210,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 25,
+    "location": "Hà Nội",
+    "area": 210,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 3.35,
+    "location": "Hà Nội",
+    "area": 63,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 2.9,
+    "location": "Hà Nội",
+    "area": 51,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 3.45,
+    "location": "Hà Nội",
+    "area": 64,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 1.42,
+    "location": "Hà Nội",
+    "area": 36,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 42,
+    "location": "Hà Nội",
+    "area": 140,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 14.73,
+    "location": "Hà Nội",
+    "area": 1075,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 1505,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 69,
+    "location": "Hà Nội",
+    "area": 2146,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 23.3,
+    "location": "Hà Nội",
+    "area": 170,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 3.1,
+    "location": "Hà Nội",
+    "area": 71,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 18.5,
+    "location": "Hà Nội",
+    "area": 100,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 2.1,
+    "location": "Hồ Chí Minh",
+    "area": 59,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 5,
+    "location": "Hồ Chí Minh",
+    "area": 85,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 4.25,
+    "location": "Hồ Chí Minh",
+    "area": 88,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 13.9,
+    "location": "Hồ Chí Minh",
+    "area": 96,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 11.7,
+    "location": "Hồ Chí Minh",
+    "area": 120,
+    "time": "29/03/2024",
+    "type": "House"
+  },
+  {
+    "price": 1.75,
+    "location": "Hồ Chí Minh",
+    "area": 47,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 6.2,
+    "location": "Hồ Chí Minh",
+    "area": 76,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 11.25,
+    "location": "Hồ Chí Minh",
+    "area": 90,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 1.55,
+    "location": "Hồ Chí Minh",
+    "area": 30,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 5.5,
+    "location": "Hồ Chí Minh",
+    "area": 125,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 9.3,
+    "location": "Hồ Chí Minh",
+    "area": 97,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 3.8,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 3.54,
+    "location": "Hồ Chí Minh",
+    "area": 66,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 4.9,
+    "location": "Hồ Chí Minh",
+    "area": 53,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 4.99,
+    "location": "Hồ Chí Minh",
+    "area": 504,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 4.4,
+    "location": "Hồ Chí Minh",
+    "area": 69,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 5,
+    "location": "Hồ Chí Minh",
+    "area": 60,
+    "time": "01/04/2024",
+    "type": "House"
+  },
+  {
+    "price": 3.84,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "31/03/2024",
+    "type": "House"
+  },
+  {
+    "price": 4.3,
+    "location": "Hồ Chí Minh",
+    "area": 85,
+    "time": "31/03/2024",
+    "type": "House"
+  },
+  {
+    "price": 30.9,
+    "location": "Hồ Chí Minh",
+    "area": 300,
+    "time": "31/03/2024",
+    "type": "House"
+  },
+  {
+    "price": 15,
+    "location": "Hồ Chí Minh",
+    "area": 90,
+    "time": "31/03/2024",
+    "type": "House"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 126,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 210,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 25,
+    "location": "Hà Nội",
+    "area": 210,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 42,
+    "location": "Hà Nội",
+    "area": 140,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 20.4,
+    "location": "Bà Rịa Vũng Tàu",
+    "area": 250,
+    "time": "27/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 14.73,
+    "location": "Hà Nội",
+    "area": 1075,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 1505,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 69,
+    "location": "Hà Nội",
+    "area": 2146,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 23.3,
+    "location": "Hà Nội",
+    "area": 170,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 18.5,
+    "location": "Hà Nội",
+    "area": 100,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 140,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 52.08,
+    "location": "Hà Nội",
+    "area": 217,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 12.5,
+    "location": "Hà Nội",
+    "area": 100,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 29,
+    "location": "Hà Nội",
+    "area": 212,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 26,
+    "location": "Hà Nội",
+    "area": 199,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 50,
+    "location": "Hà Nội",
+    "area": 1496,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 25.5,
+    "location": "Hà Nội",
+    "area": 212,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 170,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 1925,
+    "time": "30/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 68.5,
+    "location": "Hà Nội",
+    "area": 230,
+    "time": "30/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 3733,
+    "time": "30/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 13.9,
+    "location": "Hồ Chí Minh",
+    "area": 96,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 30.9,
+    "location": "Hồ Chí Minh",
+    "area": 300,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 15,
+    "location": "Hồ Chí Minh",
+    "area": 90,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 11.9,
+    "location": "Hồ Chí Minh",
+    "area": 84,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 11.7,
+    "location": "Hồ Chí Minh",
+    "area": 120,
+    "time": "29/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 12,
+    "location": "Hồ Chí Minh",
+    "area": 84,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 15.4,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "31/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 240,
+    "location": "Hồ Chí Minh",
+    "area": 5721,
+    "time": "30/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 17,
+    "location": "Hồ Chí Minh",
+    "area": 144,
+    "time": "29/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 46.1,
+    "location": "Bà Rịa Vũng Tàu",
+    "area": 439,
+    "time": "20/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 15.5,
+    "location": "Hồ Chí Minh",
+    "area": 90,
+    "time": "28/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 89.5,
+    "location": "Hồ Chí Minh",
+    "area": 2244,
+    "time": "28/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 11.8,
+    "location": "Hồ Chí Minh",
+    "area": 84,
+    "time": "26/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 10.2,
+    "location": "Hồ Chí Minh",
+    "area": 75,
+    "time": "25/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hồ Chí Minh",
+    "area": 300,
+    "time": "22/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 40,
+    "location": "Hồ Chí Minh",
+    "area": 865,
+    "time": "22/03/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 30,
+    "location": "Hồ Chí Minh",
+    "area": 250,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 15,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 23,
+    "location": "Hồ Chí Minh",
+    "area": 160,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 16,
+    "location": "Hồ Chí Minh",
+    "area": 90,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 15.5,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": null,
+    "location": "Hồ Chí Minh",
+    "area": 450,
+    "time": "01/04/2024",
+    "type": "Villa"
+  },
+  {
+    "price": 4.2,
+    "location": "Hà Nội",
+    "area": 8953,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 7.13,
+    "location": "Hà Nội",
+    "area": 140,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4.1,
+    "location": "Hà Nội",
+    "area": 63,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4.3,
+    "location": "Hà Nội",
+    "area": 73,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 11.7,
+    "location": "Hồ Chí Minh",
+    "area": 120,
+    "time": "29/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3,
+    "location": "Hà Nội",
+    "area": 71,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 5.7,
+    "location": "Hà Nội",
+    "area": 95,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.35,
+    "location": "Hà Nội",
+    "area": 63,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 2.9,
+    "location": "Hà Nội",
+    "area": 51,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.45,
+    "location": "Hà Nội",
+    "area": 64,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 1.42,
+    "location": "Hà Nội",
+    "area": 36,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.1,
+    "location": "Hà Nội",
+    "area": 71,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 1.9,
+    "location": "Hà Nội",
+    "area": 59,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.4,
+    "location": "Hà Nội",
+    "area": 74,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.6,
+    "location": "Hà Nội",
+    "area": 59,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4,
+    "location": "Hà Nội",
+    "area": 64,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 1.92,
+    "location": "Hà Nội",
+    "area": 60,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 2.2,
+    "location": "Hà Nội",
+    "area": 48,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 100,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.4,
+    "location": "Hà Nội",
+    "area": 99,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 6.86,
+    "location": "Hà Nội",
+    "area": 140,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 2.1,
+    "location": "Hồ Chí Minh",
+    "area": 59,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 5,
+    "location": "Hồ Chí Minh",
+    "area": 85,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4.25,
+    "location": "Hồ Chí Minh",
+    "area": 88,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 1.75,
+    "location": "Hồ Chí Minh",
+    "area": 47,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 11.7,
+    "location": "Hồ Chí Minh",
+    "area": 120,
+    "time": "29/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 6.2,
+    "location": "Hồ Chí Minh",
+    "area": 76,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 11.25,
+    "location": "Hồ Chí Minh",
+    "area": 90,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 1.55,
+    "location": "Hồ Chí Minh",
+    "area": 30,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 5.5,
+    "location": "Hồ Chí Minh",
+    "area": 125,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 17.45,
+    "location": "Hồ Chí Minh",
+    "area": 104,
+    "time": "29/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 9.3,
+    "location": "Hồ Chí Minh",
+    "area": 97,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.8,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.54,
+    "location": "Hồ Chí Minh",
+    "area": 66,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4.9,
+    "location": "Hồ Chí Minh",
+    "area": 53,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4.4,
+    "location": "Hồ Chí Minh",
+    "area": 69,
+    "time": "01/04/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.84,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "31/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4.3,
+    "location": "Hồ Chí Minh",
+    "area": 85,
+    "time": "31/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.12,
+    "location": "Hồ Chí Minh",
+    "area": 82,
+    "time": "31/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.2,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "31/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 4.3,
+    "location": "Hồ Chí Minh",
+    "area": 85,
+    "time": "31/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 3.04,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "31/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": 2.05,
+    "location": "Hồ Chí Minh",
+    "area": 59,
+    "time": "31/03/2024",
+    "type": "Apartment"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 89,
+    "time": "24/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 29.7,
+    "location": "Hà Nội",
+    "area": 270,
+    "time": "18/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 7,
+    "location": "Hà Nội",
+    "area": 100,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 17.5,
+    "location": "Hà Nội",
+    "area": 100,
+    "time": "30/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 6.5,
+    "location": "Lào Cai",
+    "area": 107,
+    "time": "01/04/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 8,
+    "location": "Hà Nội",
+    "area": 60,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 43.8,
+    "location": "Hà Nội",
+    "area": 128,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 8,
+    "location": "Hà Nội",
+    "area": 64,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 26,
+    "location": "Hà Nội",
+    "area": 116,
+    "time": "28/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 10.5,
+    "location": "Hà Nội",
+    "area": 100,
+    "time": "28/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 6.6,
+    "location": "Hà Nội",
+    "area": 61,
+    "time": "27/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 124,
+    "time": "21/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 3.08,
+    "location": "Hà Nội",
+    "area": 150,
+    "time": "01/04/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": null,
+    "location": "Hà Nội",
+    "area": 126,
+    "time": "01/04/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 10.5,
+    "location": "Hà Nội",
+    "area": 80,
+    "time": "01/04/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 10,
+    "location": "Hà Nội",
+    "area": 87,
+    "time": "01/04/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 31,
+    "location": "Hà Nội",
+    "area": 130,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 36.2,
+    "location": "Hà Nội",
+    "area": 40,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 22,
+    "location": "Hà Nội",
+    "area": 75,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 23,
+    "location": "Hà Nội",
+    "area": 90,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 33,
+    "location": "Hà Nội",
+    "area": 1296,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": null,
+    "location": "Hồ Chí Minh",
+    "area": 856,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": null,
+    "location": "Hồ Chí Minh",
+    "area": 75,
+    "time": "22/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 12,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "01/04/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": null,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "30/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 4.41,
+    "location": "Hồ Chí Minh",
+    "area": 5888,
+    "time": "22/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 80.6,
+    "location": "Hồ Chí Minh",
+    "area": 448,
+    "time": "28/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 33,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "27/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 30,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "26/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 11,
+    "location": "Hồ Chí Minh",
+    "area": 179,
+    "time": "25/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": null,
+    "location": "Hồ Chí Minh",
+    "area": 500,
+    "time": "28/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 4.38,
+    "location": "Hồ Chí Minh",
+    "area": 9946,
+    "time": "23/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 15,
+    "location": "Hồ Chí Minh",
+    "area": 206,
+    "time": "21/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 37.7,
+    "location": "Hồ Chí Minh",
+    "area": 210,
+    "time": "01/04/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 4.8,
+    "location": "Hồ Chí Minh",
+    "area": 59,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 11.4,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "31/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 3.2,
+    "location": "Hồ Chí Minh",
+    "area": 90,
+    "time": "30/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 31,
+    "location": "Hồ Chí Minh",
+    "area": 95,
+    "time": "30/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 8.8,
+    "location": "Hồ Chí Minh",
+    "area": 88,
+    "time": "30/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 15.5,
+    "location": "Hồ Chí Minh",
+    "area": 80,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": null,
+    "location": "Hồ Chí Minh",
+    "area": 210,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 110,
+    "location": "Hồ Chí Minh",
+    "area": 140,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  },
+  {
+    "price": 5.3,
+    "location": "Hồ Chí Minh",
+    "area": 151,
+    "time": "29/03/2024",
+    "type": "Shophouse"
+  }
+]

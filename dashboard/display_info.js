@@ -1,4 +1,4 @@
-d3.json("scraped_data.json").then(function (data) {
+d3.json("../scraped_data/scraped_data.json").then(function (data) {
     displayTotalNumberOfItems(data);
     displayLastCrawlDate();
 });
@@ -10,7 +10,7 @@ function displayTotalNumberOfItems(data) {
 
 function displayLastCrawlDate() {
     var xhr = new XMLHttpRequest();
-    xhr.open("HEAD", "scraped_data.json", true);
+    xhr.open("HEAD", "../scraped_data/scraped_data.json", true);
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
             if (xhr.status === 200) {

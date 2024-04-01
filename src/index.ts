@@ -1,5 +1,6 @@
 import * as puppeteer from 'puppeteer';
 import * as fs from 'fs';
+import * as path from 'path';
 import * as readline from 'readline';
 import { propertyData } from './propertyData';
 
@@ -126,7 +127,11 @@ async function main() {
         ].flat();
 
         // export data to JSON
-        fs.writeFile('scraped_data.json', JSON.stringify(allScrapedData, null, 2), (err) => {
+        const folderName = 'scraped_data';
+        const path1 = path.join(__dirname, '..', folderName, 'scraped_data.json');
+        const path2 = path.join(__dirname, '..', folderName, 'counts.json');
+
+        fs.writeFile(path1, JSON.stringify(allScrapedData, null, 2), (err) => {
             if (err) {
                 console.error('Error writing to file:', err);
             } else {
@@ -138,7 +143,7 @@ async function main() {
         // Get the amount of post of each type of property per day
         const counts = await countByTypeAndDay(allScrapedData);
 
-        fs.writeFile('counts.json', JSON.stringify(counts, null, 2), (err) => {
+        fs.writeFile(path2, JSON.stringify(counts, null, 2), (err) => {
             if (err) {
                 console.error('Error writing to file:', err);
             }

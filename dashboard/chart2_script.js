@@ -5,7 +5,7 @@ const svg2 = d3.select("#chart2")
     .attr("height", svgHeight);
 
 // Load data from JSON file
-d3.json("counts.json")
+d3.json("../scraped_data/counts.json")
     .then(function (data) {
         // Convert the data object into an array of objects
         const dataArray = Object.entries(data).map(([date, counts]) => ({
